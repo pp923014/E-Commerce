@@ -46,5 +46,26 @@
 
 ---
 
-## 📁 Project Structure
+## 📷 Screenshots
+
+
+
+## 💡 Future Improvements
+Add product reviews and ratings
+
+Email notifications on order status
+
+Real-time admin analytics
+
+Inventory tracking system
+
+## 🙌 Contributing
+Contributions are welcome!
+Feel free to fork this repository and submit a pull request.
+
+##  📄 License
+This project is licensed under the MIT License
+
+## 👨‍💻 Author
+Priyanshu Kumar Pandey
 
