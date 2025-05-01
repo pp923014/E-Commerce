@@ -1,8 +1,7 @@
 # ShivaFashion 🛍️  
 **A Full-Stack E-Commerce Platform built with the MERN Stack**
 
-## 🔗 Demo  
-**[Live Website](#)** <!-- Add live demo URL here -->
+
 
 ---
 
