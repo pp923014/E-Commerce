@@ -12,12 +12,12 @@ const About = () => {
       </div>
 
       <div className='my-10 flex flex-col md:flex-row gap-16'>
-          <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
+          <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="About ShivaFashion" />
           <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-              <p>Forever was born out of a passion for innovation and a desire to revolutionize the way people shop online. Our journey began with a simple idea: to provide a platform where customers can easily discover, explore, and purchase a wide range of products from the comfort of their homes.</p>
-              <p>Since our inception, we've worked tirelessly to curate a diverse selection of high-quality products that cater to every taste and preference. From fashion and beauty to electronics and home essentials, we offer an extensive collection sourced from trusted brands and suppliers.</p>
+              <p><b className='text-gray-800'>ShivaFashion</b> is a contemporary fashion brand that celebrates style, elegance, and affordability. Founded with the vision to redefine everyday fashion, we bring the latest trends and timeless classics directly to your wardrobe.</p>
+              <p>From casual wear to statement pieces, every collection at ShivaFashion is thoughtfully designed to elevate your personal style. We are committed to offering fashion-forward options that are both stylish and comfortable, ensuring our customers feel confident in every outfit.</p>
               <b className='text-gray-800'>Our Mission</b>
-              <p>Our mission at Forever is to empower customers with choice, convenience, and confidence. We're dedicated to providing a seamless shopping experience that exceeds expectations, from browsing and ordering to delivery and beyond.</p>
+              <p>Our mission at ShivaFashion is to make high-quality fashion accessible to everyone. We aim to deliver exceptional style and value through innovative designs, responsible sourcing, and a seamless shopping experience.</p>
           </div>
       </div>
 
@@ -27,16 +27,16 @@ const About = () => {
 
       <div className='flex flex-col md:flex-row text-sm mb-20'>
           <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
-            <b>Quality Assurance:</b>
-            <p className=' text-gray-600'>We meticulously select and vet each product to ensure it meets our stringent quality standards.</p>
+            <b>Trend-Driven Collections:</b>
+            <p className=' text-gray-600'>Stay ahead of the curve with our regularly updated collections inspired by global fashion trends.</p>
           </div>
           <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
-            <b>Convenience:</b>
-            <p className=' text-gray-600'>With our user-friendly interface and hassle-free ordering process, shopping has never been easier.</p>
+            <b>Affordable Luxury:</b>
+            <p className=' text-gray-600'>We believe looking stylish shouldn’t come with a hefty price tag. Our pieces offer premium quality at honest prices.</p>
           </div>
           <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
-            <b>Exceptional Customer Service:</b>
-            <p className=' text-gray-600'>Our team of dedicated professionals is here to assist you the way, ensuring your satisfaction is our top priority.</p>
+            <b>Customer-Centric Approach:</b>
+            <p className=' text-gray-600'>Your satisfaction drives us. Our support team is always ready to help, ensuring a smooth and enjoyable shopping experience.</p>
           </div>
       </div>
 
@@ -46,4 +46,4 @@ const About = () => {
   )
 }
 
-export default About
+export default About;
