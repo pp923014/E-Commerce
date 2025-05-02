@@ -74,18 +74,12 @@ import razorpay_logo from "./razorpay_logo.png";
 import stripe_logo from "./stripe_logo.png";
 import cross_icon from "./cross_icon.png";
 
-export const sliderImages = [
-  p_img2_3,
-  p_img2_4,
-  p_img3,
-  p_img4,
-  p_img5,
-  p_img6,
-  p_img7,
-  p_img8,
-  p_img9,
-  p_img10,
-];
+import imgs1 from "./slider/img1.jpg";
+import imgs2 from "./slider/img2.jpg";
+import imgs3 from "./slider/img3.jpg";
+import imgs4 from "./slider/img4.jpg";
+import imgs5 from "./slider/img5.jpg";
+export const sliderImages = [imgs1, imgs2, imgs3, imgs4, imgs5];
 
 export const assets = {
   logo,
