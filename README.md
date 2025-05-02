@@ -47,6 +47,10 @@
 ---
 
 ## 📷 Screenshots
+![Screenshot 2025-05-02 163450](https://github.com/user-attachments/assets/b4a73c9b-065d-4c59-b230-91f9d09f7f8f)
+![Screenshot 2025-05-02 163424](https://github.com/user-attachments/assets/e9ec7e59-d78c-4679-9e38-7f4a8de481ac)
+![Screenshot 2025-05-02 163358](https://github.com/user-attachments/assets/58b9dddc-7e42-472d-9cd0-92c692e64ebd)
+![Screenshot 2025-05-02 163330](https://github.com/user-attachments/assets/1ae1142c-d9f1-4398-be49-76a8dfd0f95d)
 
 
 
