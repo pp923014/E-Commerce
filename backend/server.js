@@ -16,7 +16,12 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-app.use(cors())
+app.use(cors()) // allowing all the origin to access the resources or make requests
+// app.use(cors(
+//     {
+//     origin:"http://localhost:5173"
+//     }
+// )) only http://localhost:5173 can requests
 
 // api endpoints
 app.use('/api/user',userRouter)
